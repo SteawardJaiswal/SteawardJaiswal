@@ -25,5 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjwaltiwari25&show_icons=true&locale=en&layout=compact" alt="SurajJaiswal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjwaltiwari25&show_icons=true&locale=en" alt="SurajJaiswal" /></p>
 
