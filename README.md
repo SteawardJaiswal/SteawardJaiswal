@@ -27,4 +27,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjwaltiwari25&show_icons=true&locale=en" alt="SurajJaiswal" /></p>
 
-<p><img align="center" src="https:///?user=SurajJaiswal&" alt="Suraj Jaiswal" /></p>
